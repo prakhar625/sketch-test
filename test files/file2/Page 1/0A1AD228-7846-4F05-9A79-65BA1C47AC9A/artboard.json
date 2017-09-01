@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -47,7 +47,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "3F6EDA95-D448-48FA-902B-5AA2AB1189D2"
+      "id": "7516E809-5EE9-4349-8162-4FA687DEB180"
     }
   ],
   "name": "1200x800",

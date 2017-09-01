@@ -46,8 +46,16 @@
       "id": "DE2C486E-3E12-4E2B-B41E-386B7A6C7F17"
     },
     {
+      "class": "text",
+      "id": "665075E6-1AEA-4CDC-8DBC-A553A20864C8"
+    },
+    {
       "class": "shapeGroup",
       "id": "3F6EDA95-D448-48FA-902B-5AA2AB1189D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F985E0E7-6A43-4B14-9252-50537A069BD7"
     }
   ],
   "name": "1200x800",

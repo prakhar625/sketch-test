@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "83FD34AF-150F-4077-9105-B6F6BA51C7BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 106,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Bars/Navigation/Navigation Bar - Combination",
+  "nameIsFixed": false,
+  "overrides": {
+    "34FB3BC2-EEA1-4BA8-AB63-2626C4412A1F": {
+      "06E91258-2554-48B2-A0FE-9D123BE9272C": "Favorites"
+    },
+    "7B6BD8C3-8FBB-444B-BCC0-E5557B26F790": {
+      "4A708FB7-52B6-4227-A258-32E102CCC7F5": "Reading List",
+      "9B3B927E-FE79-45BF-B2F6-D969AF500D9C": "Shared Links",
+      "B7BEFD2B-CE7F-4C6E-AA8D-B730CE42FBCE": "Favorites"
+    },
+    "C700BE43-DBCF-4A3F-9B77-9E70CB8E3C9E": {
+      "E4BAA223-5D3E-4137-BE6A-31E9F4C6A86E": "Bookmarks",
+      "symbolID": "B9F8896C-2BB2-4BE9-810E-A2BDD0B9EC04"
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6A285A65-09B4-4939-A411-01F168F8428F",
+  "verticalSpacing": 0
+}

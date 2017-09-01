@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "B063D06D-0378-49F0-A71C-DB09B4460A8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 1352,
+    "y": 1835
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "34C77C15-7D94-492F-AFE3-02DCE43B751B"
+    },
+    {
+      "class": "group",
+      "id": "8C024F38-B7AC-42AF-BECF-0D0FDC3B4AD7"
+    },
+    {
+      "class": "group",
+      "id": "BC8723AA-EF4F-429E-B90A-FB1E59600878"
+    },
+    {
+      "class": "group",
+      "id": "D1D69756-FA2E-4B11-8994-786F74125225"
+    },
+    {
+      "class": "group",
+      "id": "DDC00C5E-CC8F-41C3-94BD-2C4787C86E3F"
+    },
+    {
+      "class": "group",
+      "id": "AEDE2CCC-4868-432F-9549-D8A0076B63E3"
+    },
+    {
+      "class": "group",
+      "id": "24C0DADB-C5E9-4CF5-89C2-9A9089C48B30"
+    },
+    {
+      "class": "group",
+      "id": "F20A36F7-9DC2-467E-AADC-3C13C07C472F"
+    },
+    {
+      "class": "group",
+      "id": "350C80C7-FCAC-45AE-85DC-D41A49190ABB"
+    },
+    {
+      "class": "group",
+      "id": "0947E335-395C-4F42-9F81-BF9D80B4C1D5"
+    },
+    {
+      "class": "group",
+      "id": "C43D0CAB-24E5-4593-8676-AE2EB0281290"
+    },
+    {
+      "class": "group",
+      "id": "3DE35077-1D2A-4AD1-A3AA-4BB0822F9634"
+    }
+  ],
+  "name": "Keyboards/Dark/Numeric ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C5052AC6-2397-43A4-95FD-E9149DC2189B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

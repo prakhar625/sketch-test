@@ -1,0 +1,98 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "68C8DCD9-46C2-4A5F-B7E2-1E0D0874CECB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 93.5,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3B5B61EC-8279-4BF6-A5C9-7EE90D4DDC3C"
+    },
+    {
+      "class": "shapePath",
+      "id": "29BBA438-ADED-4DEF-B4D4-45A86DF5E4E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3D6F168-2735-41CC-8906-53FF34A622B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC88CA50-EA1C-4CA2-A42D-6D462E8F5884"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E9B42FF-1F1F-4FB2-A3A0-05AD81FDC864"
+    },
+    {
+      "class": "rectangle",
+      "id": "EF42847B-8513-452C-A526-81E88A48EA1D"
+    },
+    {
+      "class": "shapePath",
+      "id": "30EB0ED6-935F-4B5A-8A94-EEFBB15C286E"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF6B2E7D-847A-44BD-A9AE-A1842C45906A"
+    },
+    {
+      "class": "rectangle",
+      "id": "BB3755CC-38F4-4053-9A66-689D3805F70C"
+    }
+  ],
+  "name": "Food & Drink",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.6666666666666666,
+          "red": 0.6431372549019608
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,119 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "66FC4625-88B8-4301-8788-9E35843D72D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 155.5,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9B9C6ED5-40D0-40A5-A29F-0121116C1BDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "562CD953-A849-4058-8CE0-2183B1910072"
+    },
+    {
+      "class": "shapePath",
+      "id": "51BDDAE5-5F60-4B37-A1D7-9DBDC5CFEF5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "8012494E-7C5F-4CC4-83C9-636AC7E40776"
+    },
+    {
+      "class": "shapePath",
+      "id": "F18AECB2-263D-4492-9DD4-ABED8909679E"
+    },
+    {
+      "class": "shapePath",
+      "id": "300D0D06-E54D-4B81-8F26-5CB65CE3F728"
+    },
+    {
+      "class": "shapePath",
+      "id": "F5AAA53F-FE76-4AD0-9DC2-7AF209F10482"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF3E1F67-293D-4C15-9E58-08BB385ACA71"
+    },
+    {
+      "class": "shapePath",
+      "id": "6EA18E3B-D5D9-4712-91AC-965EA29DA89F"
+    },
+    {
+      "class": "shapePath",
+      "id": "58D2BD37-21E5-4330-9A6B-7B6C8BE6B367"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0DB08DF-3976-4A23-AA86-D2B899EB851D"
+    },
+    {
+      "class": "oval",
+      "id": "C63589C9-1D0B-4088-8C74-B556BF3D8330"
+    },
+    {
+      "class": "oval",
+      "id": "3556792F-4283-47FE-9757-1484E27E86C7"
+    }
+  ],
+  "name": "Travel & Places",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.300000011920929
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

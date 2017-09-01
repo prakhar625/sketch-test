@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5AE5A444-C3A0-423B-A2EE-31B3F4134867",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 124.5,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "CDC3BAC2-87A6-488E-B11E-E90E616A9BFE"
+    },
+    {
+      "class": "oval",
+      "id": "9B84AB8E-045A-4CB2-9081-DB62D9118833"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF027893-2416-4906-ADF2-4C36DBFDB74C"
+    },
+    {
+      "class": "shapePath",
+      "id": "653D286C-5609-40B2-B34A-88512B4796DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "99ACC12F-1DBD-462C-9CEA-91D6D31890B6"
+    }
+  ],
+  "name": "Activity",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.6666666666666666,
+          "red": 0.6431372549019608
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

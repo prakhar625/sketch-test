@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980393,
+    "green": 0.9372549019607843,
+    "red": 0.9372549019607843
+  },
+  "do_objectID": "A036B94F-F2E0-4535-A70C-75390F76A3E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 558,
+    "y": -226
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A455BFB2-48F3-40E1-BF59-B778B46CD066"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "713E598B-95B6-4700-855E-5A0D9BB4CFFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "725A6076-B00E-47E9-9E65-5566355E5C8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4923F1D4-68A6-4C30-89F9-407B7CE02971"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DD9F37A-4872-4692-97E8-929FE1E302A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32C9CB6D-35C0-45EC-BC78-E2C60B32E149"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "644F7D10-D60B-42CB-83CF-3B66466B370D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86FA480F-C83F-4EFA-BAE5-E8F5700E6BEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0656F5BA-5E27-40BD-ADDE-4E5C2ADD0795"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "127A2926-B592-4316-A0DA-FC374C0692FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "092842D3-CEC6-4B27-9D35-D0710798153D"
+    }
+  ],
+  "name": "Mail - Search",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

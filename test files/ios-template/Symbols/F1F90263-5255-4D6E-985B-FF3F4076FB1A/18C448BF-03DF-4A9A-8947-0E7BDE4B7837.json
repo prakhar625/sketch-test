@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiotMzc7Q0RFRkdLT1dbX2JjZVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA11za2V0Y2hhcHAuY29t0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvclZOU0tlcm7UIyQKJSYnKClaTlNUYWJTdG9wc1tOU0FsaWdubWVudFtOU1RleHRMaXN0c4AAEAKAC4AJ0hIKKyyggArSLi8wMVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMDJYTlNPYmplY3TSLi80NV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozQ2Ml8QEE5TUGFyYWdyYXBoU3R5bGXSCjg5Ol8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo8P0KiPT6ADoAPokBBgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBBTRlVJVGV4dC1SZWd1bGFy0i4vSElfEBNOU011dGFibGVEaWN0aW9uYXJ5o0hKMlxOU0RpY3Rpb25hcnnSLi9MTV8QEE5TRm9udERlc2NyaXB0b3KiTjJfEBBOU0ZvbnREZXNjcmlwdG9y1FBRUgpTVFVWVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QKjAuMDExNzY0NzA1ODggMC4wMTE3NjQ3MDU4OCAwLjAxMTc2NDcwNTg4ABABgBWAF9JYCllaVE5TSUQQAYAW0i4vXF1cTlNDb2xvclNwYWNlol4yXE5TQ29sb3JTcGFjZdIuL2BhV05TQ29sb3KiYDIjAAAAAAAAAADSLi9KZKJKMtIuL2ZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomgyXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJMAmgCiAK0AsgC0ALYAuAC6AL8AwQDDAMUAxwDJANwA/gEGAQ0BFgEhAS0BOQE7AT0BPwFBAUYBRwFJAU4BWQFiAWoBbQF2AXsBlQGZAawBsQHOAdAB0gHZAdwB3gHgAeMB5QHnAekB/wIVAh4CMQI2AkwCUAJdAmICdQJ4AosClAKaAqcCvALpAusC7QLvAvQC+QL7Av0DAgMPAxIDHwMkAywDLwM4Az0DQANFA1oDXQNyA4QDhwOMAAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAA44="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "18C448BF-03DF-4A9A-8947-0E7BDE4B7837",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 88,
+    "x": 143.5,
+    "y": 20.5
+  },
+  "glyphBounds": "{{0, 0}, {87, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Address",
+  "nameIsFixed": true,
+  "originalObjectID": "18C448BF-03DF-4A9A-8947-0E7BDE4B7837",
+  "resizingConstraint": 37,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "015D709E-16CA-4D50-98AE-F8944B8D8B83"
+  },
+  "textBehaviour": 0
+}

@@ -1,0 +1,114 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B1004D4F-2603-44F5-801A-E6C2A8411F62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 155.5,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1835908E-D71E-4486-9710-8A4C9C8C0933"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A388122-A86D-4AB2-A3C7-A963083836D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "04DB64C9-9075-45A7-B83B-D40D55959779"
+    },
+    {
+      "class": "shapePath",
+      "id": "1155F3F7-9411-4295-8B8E-232826013645"
+    },
+    {
+      "class": "shapePath",
+      "id": "24DD11F9-7663-4528-92D3-1C6E948B0B7A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FADB1555-22AF-40AE-86CA-F6405DC7A767"
+    },
+    {
+      "class": "shapePath",
+      "id": "35F83348-CA8F-4973-86F0-F81FE52F574B"
+    },
+    {
+      "class": "shapePath",
+      "id": "07C2C427-7BB8-467C-8DD1-262ED648E48D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7498D7B3-F334-4E84-9E1A-952AAC26CE11"
+    },
+    {
+      "class": "shapePath",
+      "id": "28A3E0AA-F20E-4945-9FF3-2B9B3AD5DA4C"
+    },
+    {
+      "class": "shapePath",
+      "id": "872D06DE-7B6E-41DC-9DA7-487B6AB62DB5"
+    },
+    {
+      "class": "oval",
+      "id": "7A227F69-6F4B-4883-B0EC-6DB7C0E03824"
+    },
+    {
+      "class": "oval",
+      "id": "F7808864-AE8B-4BA6-93D3-F24A44BEDC51"
+    }
+  ],
+  "name": "Travel & Places",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.6666666666666666,
+          "red": 0.6431372549019608
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

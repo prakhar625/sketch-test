@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "A828539E-A188-4DCC-A1F0-EFC811EF4492",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 375,
+    "x": 0,
+    "y": 558
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C94D57F-DD90-421C-9CFB-40466A93B904"
+    },
+    {
+      "class": "text",
+      "id": "55E314F4-02D7-4DE9-B30C-CE6E56F8D6B8"
+    },
+    {
+      "class": "group",
+      "id": "7703DFD3-CD7F-4517-9B1C-FBCA4E884274"
+    }
+  ],
+  "name": "Touch",
+  "nameIsFixed": true,
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

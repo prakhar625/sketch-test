@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6EABDD7B-BA3F-4247-A2F2-3553B431D612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 7.5,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "B086CF2E-EA85-4AA6-959D-D2470696F2A2"
+    },
+    {
+      "class": "oval",
+      "id": "C266D9A8-6B88-4033-B815-495F033DBDCB"
+    },
+    {
+      "class": "oval",
+      "id": "596A7FDA-5949-491C-9CB6-F9865BF540AE"
+    },
+    {
+      "class": "oval",
+      "id": "9CCD3F3C-5034-4A44-8C71-C42E774D5217"
+    },
+    {
+      "class": "shapePath",
+      "id": "D04BA48F-9163-45AD-9A16-8FD57EEF70DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C38E88A-C6C4-4545-837E-999BC29883F6"
+    }
+  ],
+  "name": "Smileys & People",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803921568627451,
+          "green": 0.3294117647058823,
+          "red": 0.2941176470588235
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
